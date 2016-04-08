@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
+# Visual Studio 14 O MEU NOVO BRANCH
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ProjectEulerPython", "ProjectEulerPython\ProjectEulerPython.pyproj", "{B68AA06E-05AF-4E6B-8B28-07CD386A9E18}"
